@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Ed Hessel",
+      "id": 13
+    },
+    {
+      "name": "Carrie Howe-King",
+      "id": 20
+    },
+    {
+      "name": "Chester O'Reilly",
+      "id": 21
+    },
+    {
+      "name": "Terry Gerhold",
+      "id": 24
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiker",
+      "userId": 13
+    },
+    {
+      "userId": 13,
+      "title": "Refined Wooden Towels",
+      "id": 12
+    },
+    {
+      "userId": 20,
+      "title": "Licensed Frozen Mouse",
+      "id": 15
+    },
+    {
+      "userId": 13,
+      "title": "Recycled Cotton Table",
+      "id": 16
+    },
+    {
+      "userId": 20,
+      "title": "Elegant Wooden Chicken",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1751969880342528",
+      "id": 2
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8416952642961408",
+      "id": 3
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5610088251260928",
+      "id": 5
+    }
+  ]
+}
